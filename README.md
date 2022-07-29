@@ -1,4 +1,4 @@
-# streamlit-aggrid
+# streamlit-aggrid-pro
 
 
 <br>
