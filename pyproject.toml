@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "streamlit-aggrid-pro"
+version = "0.1.9"
+description = "Streamlit component implementation of ag-grid-pro"
+classifiers = ["Programming Language :: Python :: 3", "License :: OSI Approved :: MIT License", "Operating System :: OS Independent"]
+homepage = "https://github.com/llllyang123/streamlit-aggrid-pro"
+authors = ["Pablo Fonseca <yangxiaochuang2@163.com>"]
+readme = "README.md"
+exclude = ["**/node_modules/**/*", "**/frontend/src/**/*", "**/.yarn/**/*"]
+include = ["**/frontend/build/**/*"]
+packages = [{include="st_aggrid_pro"}]
+
+[tool.poetry.dependencies]
+python = ">=3.7.1,<4.0"
+streamlit = ">=0.87.0"
+pandas = ">=1.2"
+simplejson = ">=3.0"
+python-dotenv = "^0.19.1"
+python-decouple = "^3.6"
+
+[tool.poetry.dev-dependencies]
+black = "*"
+watchdog = "^2.1.9"
+[build-system]  
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
