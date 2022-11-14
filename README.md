@@ -1,4 +1,8 @@
 # streamlit-aggrid-pro
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8fcde797fa29f03b8bfd9dd1bf1a19646768fd43
 
 <br>
 
