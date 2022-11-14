@@ -1,11 +1,10 @@
-# streamlit-aggrid
-
+# streamlit-aggrid-pro
 
 <br>
 
 # Install
 ```
-pip install streamlit-aggrid
+pip install streamlit-aggrid-pro
 
 ```
 
