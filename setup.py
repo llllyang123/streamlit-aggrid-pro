@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="streamlit-aggrid-pro",
-    version="0.2.24",
+    version="0.2.29",
     author="Pablo Fonseca",
     author_email="yangxiaochuang2@163.com",
     description="Streamlit component implementation of ag-grid-pro",

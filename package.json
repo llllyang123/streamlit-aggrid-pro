@@ -1,7 +1,7 @@
 {
     "name": "streamlit-aggrid-pro",
     "packageManager": "yarn@3.2.1",
-    "version": "0.2.24",
+    "version": "0.2.29",
     "repository": "https://github.com/PablocFonseca/streamlit-aggrid-pro.git",
     "license": "MIT",
     "author": "Pablo Fonseca",
