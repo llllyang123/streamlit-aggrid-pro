@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e5bf003-2506-46d7-99c2-a0454ecead55" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/2.d7df84e9.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/2.d7df84e9.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/main.ef8de4a0.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/main.ef8de4a0.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/2.698ce6e7.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/2.698ce6e7.chunk.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/2.698ce6e7.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/main.33a4c177.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/main.33a4c177.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/runtime-main.4c1a4e67.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/runtime-main.4c1a4e67.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/src/AgGrid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/src/AgGrid.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/src/scrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/src/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/2.058df4f5.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/2.058df4f5.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/2.27e86a51.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/2.27e86a51.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/2.c2821726.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/2.c2821726.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/main.43352fcf.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/main.43352fcf.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/main.99933db3.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/main.99933db3.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/main.c37d4f9d.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/main.c37d4f9d.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/2.09aa8829.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/2.09aa8829.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/2.09aa8829.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/2.2f2e06f0.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/2.2f2e06f0.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/2.2f2e06f0.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/2.761ff4f8.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/2.761ff4f8.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/2.761ff4f8.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/main.262c212f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/main.262c212f.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/main.57cd8125.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/main.57cd8125.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/main.d4192af2.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/main.d4192af2.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/runtime-main.158fafc4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/runtime-main.158fafc4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/runtime-main.594e1389.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/runtime-main.594e1389.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/runtime-main.d9f6a119.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/runtime-main.d9f6a119.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HZo6jVgN0nOkddQJDDkUchBRNo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/gitlab-new/python-packge/template/streamlit-aggrid-pro",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "D:\\gitlab-new\\python-packge\\template\\streamlit-aggrid-pro\\st_aggrid_pro\\frontend\\node_modules\\typescript\\lib"
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.develop">
+    <configuration name="build (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/st_aggrid_pro/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="develop" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="develop" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/st_aggrid_pro/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.develop" />
+        <item itemvalue="npm.build (1)" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="4e5bf003-2506-46d7-99c2-a0454ecead55" name="变更" comment="" />
+      <created>1668501793915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668501793915</updated>
+      <workItem from="1668501795768" duration="2296000" />
+      <workItem from="1668504223737" duration="5361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/st_aggrid_pro/frontend/src/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

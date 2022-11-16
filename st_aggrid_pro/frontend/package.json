@@ -1,6 +1,6 @@
 {
   "name": "streamlit-aggrid-pro",
-  "version": "0.1.9",
+  "version": "0.2.24",
   "private": true,
   "dependencies": {
     "@ag-grid-community/all-modules": "^26.1.0",
