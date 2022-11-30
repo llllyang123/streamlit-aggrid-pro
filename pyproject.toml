@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "streamlit-aggrid-pro"
-version = "0.2.29"
+version = "0.2.3"
 description = "Streamlit component implementation of ag-grid-pro"
 classifiers = ["Programming Language :: Python :: 3", "License :: OSI Approved :: MIT License", "Operating System :: OS Independent"]
 homepage = "https://github.com/llllyang123/streamlit-aggrid-pro"

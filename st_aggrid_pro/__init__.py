@@ -13,8 +13,6 @@ from typing import Any, List, Mapping, Union, Any
 
 from st_aggrid_pro.grid_options_builder import GridOptionsBuilder
 from st_aggrid_pro.shared import GridUpdateMode, DataReturnMode, JsCode, walk_gridOptions, ColumnsAutoSizeMode, AgGridTheme
-
-
 @dataclass
 class AgGridReturn(Mapping):
     """Class to hold AgGrid call return"""
@@ -42,7 +40,7 @@ class AgGridReturn(Mapping):
 # This function exists because pandas behaviour when converting tz aware datetime to iso format.
 def __cast_date_columns_to_iso8601(dataframe: pd.DataFrame):
     """Internal Method to convert tz-aware datetime columns to correct ISO8601 format"""
-    for c, d in dataframe.dtypes.items():
+    for c, d in dataframe.dtypes.iteritems():
         if not d.kind == 'M':
             continue
         else:
@@ -102,6 +100,7 @@ def __parse_grid_options(gridOptions_parameter, dataframe, default_column_parame
 
     return gridOptions
 
+
 _RELEASE = config("AGGRID_RELEASE", default=True, cast=bool)
 
 if not _RELEASE:
@@ -143,7 +142,7 @@ def __parse_update_mode(update_mode: GridUpdateMode):
     if (update_mode & GridUpdateMode.COLUMN_VISIBLE):
         update_on.append("columnVisible")
 
-    return
+    return update_on
 
 def AgGridPro(
     data: Union[pd.DataFrame, str],
@@ -272,7 +271,7 @@ def AgGridPro(
     Returns
     -------
     Dict
-        returns a dictionary with grid's data is in dictionary's 'data' key. 
+        returns a dictionary with grid's data is in dictionary's 'data' key.
         Other keys may be present depending on gridOptions parameters
     """
 
@@ -307,7 +306,11 @@ def AgGridPro(
 
     if update_mode:
         update_on = list(update_on)
-        update_on.append(__parse_update_mode(update_mode))
+        if update_mode == GridUpdateMode.MANUAL:
+            manual_update = True
+        else:
+            manual_update = False
+            update_on.extend(__parse_update_mode(update_mode))
 
     frame_dtypes = []
     if try_to_convert_back_to_original_types:
@@ -345,6 +348,7 @@ def AgGridPro(
             theme=theme,
             custom_css=custom_css,
             update_on=update_on,
+            manual_update=manual_update,
             key=key
         )
 

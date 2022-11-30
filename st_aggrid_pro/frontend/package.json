@@ -1,6 +1,6 @@
 {
   "name": "streamlit-aggrid-pro",
-  "version": "0.2.29",
+  "version": "0.2.3",
   "private": true,
   "dependencies": {
     "@ag-grid-community/client-side-row-model": "^28.0.2",

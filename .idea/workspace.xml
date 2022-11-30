@@ -5,51 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e5bf003-2506-46d7-99c2-a0454ecead55" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/main.8d4f52e2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/main.8d4f52e2.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/main.dc43edd4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/main.dc43edd4.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/main.dc43edd4.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/media/source-sans-pro-all-400-normal.1882629b5eaf2ec74fbf.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/media/source-sans-pro-cyrillic-400-normal.d1cfd8b7bb2cbe3fabb0.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/media/source-sans-pro-cyrillic-ext-400-normal.de95c5209ef26bf69ccf.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/media/source-sans-pro-greek-400-normal.9c7d72dcc7a044db07b1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/media/source-sans-pro-greek-ext-400-normal.1b1cb10170f2616853f0.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/media/source-sans-pro-latin-400-normal.c0d191aa7fb798623030.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/media/source-sans-pro-latin-ext-400-normal.fbd4fe33a443c83e04f1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/media/source-sans-pro-vietnamese-400-normal.e84a4369ad213f658ebb.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/src/agGridStyle.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/css/main.8d4f52e2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/css/main.8d4f52e2.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/js/main.dc43edd4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/js/main.dc43edd4.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/js/main.dc43edd4.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/media/source-sans-pro-all-400-normal.1882629b5eaf2ec74fbf.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/media/source-sans-pro-cyrillic-400-normal.d1cfd8b7bb2cbe3fabb0.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/media/source-sans-pro-cyrillic-ext-400-normal.de95c5209ef26bf69ccf.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/media/source-sans-pro-greek-400-normal.9c7d72dcc7a044db07b1.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/media/source-sans-pro-greek-ext-400-normal.1b1cb10170f2616853f0.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/media/source-sans-pro-latin-400-normal.c0d191aa7fb798623030.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/media/source-sans-pro-latin-ext-400-normal.fbd4fe33a443c83e04f1.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/media/source-sans-pro-vietnamese-400-normal.e84a4369ad213f658ebb.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/streamlit-aggrid-pro-0.1.9.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/streamlit_aggrid_pro-0.1.9-py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/st_aggrid_pro/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/2.d7df84e9.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/2.d7df84e9.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/main.ef8de4a0.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/css/main.ef8de4a0.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/2.698ce6e7.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/2.698ce6e7.chunk.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/2.698ce6e7.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/main.33a4c177.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/main.33a4c177.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/runtime-main.4c1a4e67.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/build/static/js/runtime-main.4c1a4e67.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/public/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/public/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/src/AgGrid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/src/AgGrid.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/st_aggrid_pro/frontend/src/AgGrid.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/frontend/src/scrollbar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/grid_options_builder.py" beforeDir="false" afterPath="$PROJECT_DIR$/st_aggrid_pro/grid_options_builder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/st_aggrid_pro/shared.py" beforeDir="false" afterPath="$PROJECT_DIR$/st_aggrid_pro/shared.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/st_aggrid_pro/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/st_aggrid_pro/grid_options_builder.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/grid_options_builder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/st_aggrid_pro/shared.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/shared.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/PKG-INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/SOURCES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/dependency_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/dependency_links.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/requires.txt" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/requires.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/top_level.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,28 +50,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/gitlab-new/python-packge/template/streamlit-aggrid-pro/st_aggrid_pro/frontend/public",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "D:\\gitlab-new\\python-packge\\template\\streamlit-aggrid-pro\\st_aggrid_pro\\frontend\\node_modules\\typescript\\lib"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/gitlab-new/python-packge/template/streamlit-aggrid-pro/st_aggrid_pro/frontend/public&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\gitlab-new\\python-packge\\template\\streamlit-aggrid-pro\\st_aggrid_pro\\frontend\\node_modules\\typescript\\lib&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\gitlab-new\python-packge\template\streamlit-aggrid-pro\st_aggrid_pro\frontend\public" />
       <recent name="D:\gitlab-new\python-packge\template\streamlit-aggrid-pro\st_aggrid_pro\frontend\build" />
       <recent name="D:\gitlab-new\python-packge\template\streamlit-aggrid-pro\st_aggrid_pro\frontend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gitlab-new\python-packge\template\streamlit-aggrid-pro\st_aggrid_pro" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start">
@@ -153,7 +136,11 @@
       <option name="presentableId" value="Default" />
       <updated>1668501793915</updated>
       <workItem from="1668501795768" duration="2296000" />
-      <workItem from="1668504223737" duration="23439000" />
+      <workItem from="1668504223737" duration="24273000" />
+      <workItem from="1668678080995" duration="4545000" />
+      <workItem from="1668751683677" duration="186000" />
+      <workItem from="1668751913978" duration="106000" />
+      <workItem from="1669772494619" duration="651000" />
     </task>
     <servers />
   </component>
