@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e5bf003-2506-46d7-99c2-a0454ecead55" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/css/main.8d4f52e2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/css/main.8d4f52e2.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/js/main.dc43edd4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/js/main.dc43edd4.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/js/main.dc43edd4.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/media/source-sans-pro-all-400-normal.1882629b5eaf2ec74fbf.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/media/source-sans-pro-cyrillic-400-normal.d1cfd8b7bb2cbe3fabb0.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/media/source-sans-pro-cyrillic-ext-400-normal.de95c5209ef26bf69ccf.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/media/source-sans-pro-greek-400-normal.9c7d72dcc7a044db07b1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/media/source-sans-pro-greek-ext-400-normal.1b1cb10170f2616853f0.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/media/source-sans-pro-latin-400-normal.c0d191aa7fb798623030.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/media/source-sans-pro-latin-ext-400-normal.fbd4fe33a443c83e04f1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/static/media/source-sans-pro-vietnamese-400-normal.e84a4369ad213f658ebb.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/lib/st_aggrid_pro/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/frontend/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/lib/st_aggrid_pro/grid_options_builder.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/grid_options_builder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/lib/st_aggrid_pro/shared.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/st_aggrid_pro/shared.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/PKG-INFO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/SOURCES.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/dependency_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/dependency_links.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/requires.txt" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/requires.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_aggrid_pro.egg-info/top_level.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +116,7 @@
       <workItem from="1668678080995" duration="4545000" />
       <workItem from="1668751683677" duration="186000" />
       <workItem from="1668751913978" duration="106000" />
-      <workItem from="1669772494619" duration="651000" />
+      <workItem from="1669772494619" duration="1309000" />
     </task>
     <servers />
   </component>
